@@ -42,11 +42,11 @@ VGG是Oxford的Visual Geometry Group提出而得名为VGG，其中VGG16相比Ale
 
 使用2个3x3卷积核可以来代替5×5卷积核图解：
 
-<img src="https://github.com/jm199504/VGG-NST/blob/master/images/2.jpg" width="300">
+<img src="https://github.com/jm199504/VGG-NST/blob/master/images/2.jpg" width="400">
 
 VGG网络结构：
 
-<img src="https://github.com/jm199504/VGG-NST/blob/master/images/3.jpg" width="300">
+<img src="https://github.com/jm199504/VGG-NST/blob/master/images/3.jpg" width="400">
 
 VGG16包含了16个隐藏层（13个卷积层和3个全连接层），如上图中的D列所示
 
