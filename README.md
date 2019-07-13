@@ -66,16 +66,16 @@ VGGNet的结构非常简洁，整个网络都使用了同样大小的卷积核�
 
 VGG耗费更多计算资源，并且使用了更多的参数（这里不是3x3卷积的锅），导致更多的内存占用（140M）。其中绝大多数的参数都是来自于第一个全连接层。VGG可是有3个全连接层！
 
-训练请参考tensorflow-vgg：<https://link.zhihu.com/?target=https%3A//github.com/machrisaa/tensorflow-vgg>
+训练请参考：tensorflow-vgg：<https://link.zhihu.com/?target=https%3A//github.com/machrisaa/tensorflow-vgg>
 
-快速测试请参考 VGG-in TensorFlow：<https://link.zhihu.com/?target=https%3A//www.cs.toronto.edu/~frossard/post/vgg16/>
+快速测试请参考：VGG-in TensorFlow：<https://link.zhihu.com/?target=https%3A//www.cs.toronto.edu/~frossard/post/vgg16/>
 
 VGG-Tensorflow测试代码：<https://link.zhihu.com/?target=https%3A//www.cs.toronto.edu/~frossard/post/vgg16/>
 
 其他参考来源：
 
-论文 https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1409.1556
+论文：https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1409.1556
 
-机器学习进阶笔记之五 | 深入理解 VGG Residual Network  https://zhuanlan.zhihu.com/p/23518167
+机器学习进阶笔记之五 | 深入理解 VGG Residual Network：https://zhuanlan.zhihu.com/p/23518167
 
-深度学习经典卷积神经网络之VGGNet https://link.zhihu.com/?target=https%3A//blog.csdn.net/marsjhao/article/details/72955935
+深度学习经典卷积神经网络之VGGNet：https://link.zhihu.com/?target=https%3A//blog.csdn.net/marsjhao/article/details/72955935
