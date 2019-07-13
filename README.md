@@ -1,4 +1,4 @@
-## VGG-NST
+## VGG-NET
 
 背景：使用VGG做图像风格迁移
 
